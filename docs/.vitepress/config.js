@@ -10,7 +10,7 @@ export default {
 
     themeConfig: {
 
-        siteTitle: '飞叶的网站',
+        siteTitle: '飞叶的博客',
         logo: '/logo.jpg',
 
 
@@ -28,7 +28,7 @@ export default {
 
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+            { icon: 'github', link: 'https://github.com/cunzaizhuyi/fy-blog' },
             { icon: 'twitter', link: '...' },
             { icon: 'discord', link: '...' }
         ],
@@ -36,7 +36,7 @@ export default {
 
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2022-present feiye'
+            copyright: 'Copyright © 2023-present feiye'
         },
     }
 }
