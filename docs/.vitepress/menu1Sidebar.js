@@ -8,7 +8,7 @@ export default [
         items: [
             // This shows `/guide/index.md` page.
             { text: 'JS-2023趋势', link: `${commonPath}/2023-js-trends.md` }, // /guide/index.md
-            { text: 'b', link: `${commonPath}/b.md` }, // /guide/one.md
+            { text: '终端loading原理', link: `${commonPath}/终端loading原理.md` }, // /guide/one.md
         ]
     },
     {
